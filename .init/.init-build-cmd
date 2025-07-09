@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/healthcare-nurse-dispatch-system-d0db7c7a/nurse_dispatch_backend"
+}
